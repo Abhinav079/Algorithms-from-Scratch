@@ -22,13 +22,15 @@ If you'd like to contribute, follow these steps:
 
 ## Algorithms List
 
-- **Algorithm 1:** [Name of Algorithm 1]
-  - [Brief description of the algorithm and its application]
-  - [Link to Jupyter Notebook]
+- **Algorithm 1:** K-Means Clustering
+  - K-Means Clustering is an unsupervised machine learning algorithm used for partitioning a dataset into K distinct, non-overlapping subsets (clusters). The goal is to minimize the variance within each cluster while maximizing the variance between clusters. It is widely employed in various fields, including image segmentation, customer segmentation, and anomaly detection.
+  - [Link to Jupyter Notebook](https://github.com/Abhinav079/Algorithms-from-Scratch/blob/main/K%20Means%20from%20Scratch.ipynb)
 
-- **Algorithm 2:** [Name of Algorithm 2]
-  - [Brief description of the algorithm and its application]
-  - [Link to Jupyter Notebook]
+
+- **Algorithm 2:** Linear Regression
+  - Linear Regression is a supervised machine learning algorithm used for predicting a continuous outcome based on one or more predictor variables. It establishes a linear relationship between the input features and the target variable, making it a fundamental algorithm in regression analysis. Linear Regression is widely applied in areas such as finance, economics, and social sciences.
+  - [Link to Jupyter Notebook](https://github.com/Abhinav079/Algorithms-from-Scratch/blob/main/Linear%20Regression%20from%20Scratch.ipynb)
+
 
 ...
 
